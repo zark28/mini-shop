@@ -64,5 +64,12 @@
   height: 40px;
   padding: 0 30px ;
   font-size: 1.5rem;
+  cursor: pointer;
   
+}
+.btn:hover
+{
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #fbaeae;
 }
